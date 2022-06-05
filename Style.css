@@ -3,7 +3,7 @@
     width: 50%;
 }
 
-h2 {
+#tieude {
     text-align: center;
     color: white;
     padding: 20px;
@@ -11,4 +11,8 @@ h2 {
 
 #tieude {
     background-color: red;
+}
+.phan2{
+    margin: 50px auto;
+
 }
